@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMidLabExam", "FirstMidLabExam\FirstMidLabExam.csproj", "{EB50D7EF-EF56-48B1-921A-D5212766F6B9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ShufflingCardGame", "ShufflingCardGame\ShufflingCardGame.vdproj", "{1F764E41-B9AD-4720-8CB0-554ABFDB70E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB50D7EF-EF56-48B1-921A-D5212766F6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB50D7EF-EF56-48B1-921A-D5212766F6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB50D7EF-EF56-48B1-921A-D5212766F6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB50D7EF-EF56-48B1-921A-D5212766F6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F764E41-B9AD-4720-8CB0-554ABFDB70E4}.Debug|Any CPU.ActiveCfg = Debug
+		{1F764E41-B9AD-4720-8CB0-554ABFDB70E4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
